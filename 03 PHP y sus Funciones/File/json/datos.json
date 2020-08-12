@@ -1,0 +1,14 @@
+{
+	"name": "test",
+	"version": "1.0",
+	"options": {
+		"option1": "1",
+		"option2": "2",
+		"option3": "3",
+		"option4":{
+			"subopt1": "4.1",
+			"subopt2": "4.2"
+		}
+	},
+	"autor":"franco"
+}
